@@ -1,0 +1,246 @@
+voyage_id,site_id,sampling_date,lat,long,eDNA (seawater volume in L),Collection method,filtration_device
+V13_IOT,1,7/11/2023,-10.46095,105.62445,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,1,7/11/2023,-10.46095,105.62445,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,1,7/11/2023,-10.46095,105.62445,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,1,7/11/2023,-10.46095,105.62445,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,1,7/11/2023,-10.46095,105.62445,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,2,7/11/2023,-10.44121,105.65906,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,2,7/11/2023,-10.44121,105.65906,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,2,7/11/2023,-10.44121,105.65906,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,2,7/11/2023,-10.44121,105.65906,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,2,7/11/2023,-10.44121,105.65906,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,3,7/11/2023,-10.43637,105.66212,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,3,7/11/2023,-10.43637,105.66212,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,3,7/11/2023,-10.43637,105.66212,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,3,7/11/2023,-10.43637,105.66212,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,3,7/11/2023,-10.43637,105.66212,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,4,7/11/2023,-10.42858,105.66698,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,4,7/11/2023,-10.42858,105.66698,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,4,7/11/2023,-10.42858,105.66698,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,4,7/11/2023,-10.42858,105.66698,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,4,7/11/2023,-10.42858,105.66698,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,5,7/11/2023,-10.4367,105.6621,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,5,7/11/2023,-10.4367,105.6621,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,5,7/11/2023,-10.4367,105.6621,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,5,7/11/2023,-10.4367,105.6621,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,5,7/11/2023,-10.4367,105.6621,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,6,8/11/2023,-10.5173,105.5406,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,6,8/11/2023,-10.5173,105.5406,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,6,8/11/2023,-10.5173,105.5406,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,6,8/11/2023,-10.5173,105.5406,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,6,8/11/2023,-10.5173,105.5406,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,7,8/11/2023,-10.483,105.553201,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,7,8/11/2023,-10.483,105.553201,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,7,8/11/2023,-10.483,105.553201,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,7,8/11/2023,-10.483,105.553201,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,7,8/11/2023,-10.483,105.553201,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,8,8/11/2023,-10.49671,105.54538,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,8,8/11/2023,-10.49671,105.54538,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,8,8/11/2023,-10.49671,105.54538,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,8,8/11/2023,-10.49671,105.54538,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,8,8/11/2023,-10.49671,105.54538,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,9,8/11/2023,-10.4713,105.5572,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,9,8/11/2023,-10.4713,105.5572,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,9,8/11/2023,-10.4713,105.5572,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,9,8/11/2023,-10.4713,105.5572,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,9,8/11/2023,-10.4713,105.5572,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,10,8/11/2023,-10.447067,105.561217,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,10,8/11/2023,-10.447067,105.561217,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,10,8/11/2023,-10.447067,105.561217,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,10,8/11/2023,-10.447067,105.561217,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,10,8/11/2023,-10.447067,105.561217,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,11,9/11/2023,-10.4714,105.7246,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,11,9/11/2023,-10.4714,105.7246,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,11,9/11/2023,-10.4714,105.7246,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,11,9/11/2023,-10.4714,105.7246,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,11,9/11/2023,-10.4714,105.7246,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,11,9/11/2023,-10.4714,105.7246,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,11,9/11/2023,-10.4714,105.7246,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,11,9/11/2023,-10.4714,105.7246,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,11,9/11/2023,-10.4714,105.7246,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,11,9/11/2023,-10.4714,105.7246,2,Ocean Diagnostics,Ocean Diagnostics
+V13_IOT,12,9/11/2023,-10.4575,105.7082,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,12,9/11/2023,-10.4575,105.7082,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,12,9/11/2023,-10.4575,105.7082,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,12,9/11/2023,-10.4575,105.7082,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,12,9/11/2023,-10.4575,105.7082,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,13,10/11/2023,-10.4555,105.5682,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,13,10/11/2023,-10.4555,105.5682,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,13,10/11/2023,-10.4555,105.5682,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,13,10/11/2023,-10.4555,105.5682,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,13,10/11/2023,-10.4555,105.5682,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,13,10/11/2023,-10.4555,105.5682,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,13,10/11/2023,-10.4555,105.5682,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,13,10/11/2023,-10.4555,105.5682,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,13,10/11/2023,-10.4555,105.5682,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,13,10/11/2023,-10.4555,105.5682,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,14,10/11/2023,-10.4662,105.6033,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,14,10/11/2023,-10.4662,105.6033,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,14,10/11/2023,-10.4662,105.6033,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,14,10/11/2023,-10.4662,105.6033,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,14,10/11/2023,-10.4662,105.6033,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,15,10/11/2023,-10.46254,105.59241,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,15,10/11/2023,-10.46254,105.59241,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,15,10/11/2023,-10.46254,105.59241,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,15,10/11/2023,-10.46254,105.59241,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,15,10/11/2023,-10.46254,105.59241,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,16,10/11/2023,-10.41885,105.703833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,16,10/11/2023,-10.41885,105.703833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,16,10/11/2023,-10.41885,105.703833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,16,10/11/2023,-10.41885,105.703833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,16,10/11/2023,-10.41885,105.703833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,17,10/11/2023,-10.4124,105.6974,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,17,10/11/2023,-10.4124,105.6974,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,17,10/11/2023,-10.4124,105.6974,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,17,10/11/2023,-10.4124,105.6974,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,17,10/11/2023,-10.4124,105.6974,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,18,11/11/2023,-10.57115,105.6599833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,18,11/11/2023,-10.57115,105.6599833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,18,11/11/2023,-10.57115,105.6599833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,18,11/11/2023,-10.57115,105.6599833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,18,11/11/2023,-10.57115,105.6599833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,19,11/11/2023,-10.55201667,105.636,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,19,11/11/2023,-10.55201667,105.636,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,19,11/11/2023,-10.55201667,105.636,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,19,11/11/2023,-10.55201667,105.636,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,19,11/11/2023,-10.55201667,105.636,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,20,11/11/2023,-10.515575,105.6235833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,20,11/11/2023,-10.515575,105.6235833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,20,11/11/2023,-10.515575,105.6235833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,20,11/11/2023,-10.515575,105.6235833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,20,11/11/2023,-10.515575,105.6235833,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,21,11/11/2023,-10.51191667,105.59915,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,21,11/11/2023,-10.51191667,105.59915,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,21,11/11/2023,-10.51191667,105.59915,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,21,11/11/2023,-10.51191667,105.59915,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,21,11/11/2023,-10.51191667,105.59915,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,22,11/11/2023,-10.50642,105.568,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,22,11/11/2023,-10.50642,105.568,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,22,11/11/2023,-10.50642,105.568,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,22,11/11/2023,-10.50642,105.568,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,22,11/11/2023,-10.50642,105.568,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,23,12/11/2023,-10.55699167,105.6679333,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,23,12/11/2023,-10.55699167,105.6679333,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,23,12/11/2023,-10.55699167,105.6679333,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,23,12/11/2023,-10.55699167,105.6679333,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,23,12/11/2023,-10.55699167,105.6679333,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,24,12/11/2023,-10.52225,105.67728,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,24,12/11/2023,-10.52225,105.67728,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,24,12/11/2023,-10.52225,105.67728,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,24,12/11/2023,-10.52225,105.67728,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,24,12/11/2023,-10.52225,105.67728,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,25,12/11/2023,-10.5028,105.6764,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,25,12/11/2023,-10.5028,105.6764,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,25,12/11/2023,-10.5028,105.6764,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,25,12/11/2023,-10.5028,105.6764,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,25,12/11/2023,-10.5028,105.6764,2,Ocean Diagnostics,Ocean Diagnostic 
+V13_IOT,26,12/11/2023,-10.47555,105.70422,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,26,12/11/2023,-10.47555,105.70422,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,26,12/11/2023,-10.47555,105.70422,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,26,12/11/2023,-10.47555,105.70422,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,26,12/11/2023,-10.47555,105.70422,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,27,12/11/2023,-10.4548,105.70585,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,27,12/11/2023,-10.4548,105.70585,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,27,12/11/2023,-10.4548,105.70585,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,27,12/11/2023,-10.4548,105.70585,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,27,12/11/2023,-10.4548,105.70585,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,28,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,29,13/11/2023,,,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,30,15/11/2023,-10.42375,105.6710167,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,30,15/11/2023,-10.42375,105.6710167,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,30,15/11/2023,-10.42375,105.6710167,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,30,15/11/2023,-10.42375,105.6710167,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,30,15/11/2023,-10.42375,105.6710167,2,Ocean Diagnostics,Ocean Diagnostic
+V13_IOT,T5,17/11/2023,-11.029967,104.7771,2,Niskin,Masterflex
+V13_IOT,T5,17/11/2023,-11.029967,104.7771,2,Niskin,Masterflex
+V13_IOT,T5,17/11/2023,-11.029967,104.7771,2,Niskin,Masterflex
+V13_IOT,T5,17/11/2023,-11.029967,104.7771,2,Niskin,Masterflex
+V13_IOT,T5,17/11/2023,-11.029967,104.7771,2,Niskin,Masterflex
+V13_IOT,T6,18/11/2023,-11.70311667,103.90165,2,Niskin,Masterflex
+V13_IOT,T6,18/11/2023,-11.70311667,103.90165,2,Niskin,Masterflex
+V13_IOT,T6,18/11/2023,-11.70311667,103.90165,2,Niskin,Masterflex
+V13_IOT,T6,18/11/2023,-11.70311667,103.90165,2,Niskin,Masterflex
+V13_IOT,T6,18/11/2023,-11.70311667,103.90165,2,Niskin,Masterflex
+V13_IOT,T7,18/11/2023,-12.35474719,103.0455238,2,Niskin,Masterflex
+V13_IOT,T7,18/11/2023,-12.35474719,103.0455238,2,Niskin,Masterflex
+V13_IOT,T7,18/11/2023,-12.35474719,103.0455238,2,Niskin,Masterflex
+V13_IOT,T7,18/11/2023,-12.35474719,103.0455238,2,Niskin,Masterflex
+V13_IOT,T7,18/11/2023,-12.35474719,103.0455238,2,Niskin,Masterflex
+V13_IOT,T8,18/11/2023,-12.68783291,102.6139039,2,Niskin,Masterflex
+V13_IOT,T8,18/11/2023,-12.68783291,102.6139039,2,Niskin,Masterflex
+V13_IOT,T8,18/11/2023,-12.68783291,102.6139039,2,Niskin,Masterflex
+V13_IOT,T8,18/11/2023,-12.68783291,102.6139039,2,Niskin,Masterflex
+V13_IOT,T8,18/11/2023,-12.68783291,102.6139039,2,Niskin,Masterflex
+V13_IOT,T9,18/11/2023,-13.098995,102.12258,2,Niskin,Masterflex
+V13_IOT,T9,18/11/2023,-13.098995,102.12258,2,Niskin,Masterflex
+V13_IOT,T9,18/11/2023,-13.098995,102.12258,2,Niskin,Masterflex
+V13_IOT,T9,18/11/2023,-13.098995,102.12258,2,Niskin,Masterflex
+V13_IOT,T9,18/11/2023,-13.098995,102.12258,2,Niskin,Masterflex
+V13_IOT,T10,18/11/2023,-12.09083333,101.9206333,2,Niskin,Masterflex
+V13_IOT,T10,18/11/2023,-12.09083333,101.9206333,2,Niskin,Masterflex
+V13_IOT,T10,18/11/2023,-12.09083333,101.9206333,2,Niskin,Masterflex
+V13_IOT,T10,18/11/2023,-12.09083333,101.9206333,2,Niskin,Masterflex
+V13_IOT,T10,18/11/2023,-12.09083333,101.9206333,2,Niskin,Masterflex
+V13_IOT,T11,19/11/2023,-11.31515,101.78165,2,Niskin,Masterflex
+V13_IOT,T11,19/11/2023,-11.31515,101.78165,2,Niskin,Masterflex
+V13_IOT,T11,19/11/2023,-11.31515,101.78165,2,Niskin,Masterflex
+V13_IOT,T11,19/11/2023,-11.31515,101.78165,2,Niskin,Masterflex
+V13_IOT,T11,19/11/2023,-11.31515,101.78165,2,Niskin,Masterflex
+V13_IOT,T12,19/11/2023,-10.33324,101.276158,2,Niskin,Masterflex
+V13_IOT,T12,19/11/2023,-10.33324,101.276158,2,Niskin,Masterflex
+V13_IOT,T12,19/11/2023,-10.33324,101.276158,2,Niskin,Masterflex
+V13_IOT,T12,19/11/2023,-10.33324,101.276158,2,Niskin,Masterflex
+V13_IOT,T12,19/11/2023,-10.33324,101.276158,2,Niskin,Masterflex
+V13_IOT,T13,19/11/2023,,,,,
+V13_IOT,T13,19/11/2023,,,,,
+V13_IOT,T13,19/11/2023,,,,,
+V13_IOT,T13,19/11/2023,,,,,
+V13_IOT,T13,19/11/2023,,,,,

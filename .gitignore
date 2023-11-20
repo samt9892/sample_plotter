@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+in_eez/*
+!in_eez/.gitkeep
+in_marine_parks/*
+!in_marine_parks/.gitkeep
