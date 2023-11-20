@@ -5,6 +5,7 @@ library(ggplot2)
 library(viridis)
 library(rnaturalearth)
 library(rnaturalearthhires)
+library(raster)
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
@@ -13,16 +14,30 @@ boundaries <- list()
 boundaries[["All"]] <- list(ODR_Xlim = c(90, 160), ODR_Ylim = c(-50, -5))
 boundaries[["EEZ"]] <- list(ODR_Xlim = c(93, 109), ODR_Ylim = c(-17, -7))
 boundaries[["CI"]] <- list(ODR_Xlim = c(105.3, 105.8), ODR_Ylim = c(-10.7, -10.4))
-boundaries[["CKI"]] <- list(ODR_Xlim = c(105.3, 105.8), ODR_Ylim = c(-10.7, -10.4))
+boundaries[["CKI"]] <- list(ODR_Xlim = c(96.7, 97), ODR_Ylim = c(-12.3, -12))
 
 #SET: Voyage name ----
 voyage <- "IOT"
 
-#load background map ----
+#load background maps ----
+
+#basic map ----
 map <- ne_load(scale=10, category="physical", type='land', returnclass = 'sf') #if already downloaded
 #map <- ne_download(scale=10, category="physical", type='land', returnclass = 'sf', load=T) #if need to downloaded
 
 st_crs(map) #check crs
+
+
+#colbys map ----
+raster_extent <- extent(boundaries[["All"]]$ODR_Xlim[1], boundaries[["All"]]$ODR_Xlim[2],  #Define raster extent from the largest image 'all'
+                      boundaries[["All"]]$ODR_Ylim[1], boundaries[["All"]]$ODR_Ylim[2])
+raster_map <- raster("in_background_map/NE1_HR_LC_SR_W.tif") # Read the raster datafile
+cropped_raster <- crop(raster_map, new_extent) # Crop the raster to match the defined extent
+
+raster_polygons <- rasterToPolygons(cropped_raster, dissolve = TRUE) # Convert raster to polygons (each pixel as a polygon)
+sf_raster <- st_as_sf(raster_polygons) # Convert polygons to sf object
+
+rm(raster_map, raster_polygons, raster_extent) #cleanup variables
 
 #load sampling sites ----
 file_list <- list.files("in_sampling_sites", pattern = "\\.csv$", full.names = TRUE) # Get all CSV files
@@ -61,6 +76,8 @@ for (file in file_list) {
   mp_list[[file_name]] <- data  # Store data in the list with file name as key
 }
 rm(data)
+
+st_crs(mp_list[[1]])
 
 
 #load colour palette ----
