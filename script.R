@@ -43,6 +43,18 @@ if (file.exists("cropped_raster.rds")) {
   # Save cropped raster as RDS file
   saveRDS(cropped_raster, "cropped_raster.rds")
 }
+
+#colbys map ----
+raster_extent <- extent(boundaries[["All"]]$ODR_Xlim[1], boundaries[["All"]]$ODR_Xlim[2],  #Define raster extent from the largest image 'all'
+                      boundaries[["All"]]$ODR_Ylim[1], boundaries[["All"]]$ODR_Ylim[2])
+raster_map <- raster("in_background_map/NE1_HR_LC_SR_W.tif") # Read the raster datafile
+cropped_raster <- crop(raster_map, new_extent) # Crop the raster to match the defined extent
+
+raster_polygons <- rasterToPolygons(cropped_raster, dissolve = TRUE) # Convert raster to polygons (each pixel as a polygon)
+sf_raster <- st_as_sf(raster_polygons) # Convert polygons to sf object
+
+rm(raster_map, raster_polygons, raster_extent) #cleanup variables
+
 #load sampling sites ----
 file_list <- list.files("in_sampling_sites", pattern = "\\.csv$", full.names = TRUE) # Get all CSV files
 data_list <- list()  # Create an empty list to store data frames
