@@ -43,6 +43,7 @@ if (file.exists("cropped_raster.rds")) {
   # Save cropped raster as RDS file
   saveRDS(cropped_raster, "cropped_raster.rds")
 }
+
 #load sampling sites ----
 file_list <- list.files("in_sampling_sites", pattern = "\\.csv$", full.names = TRUE) # Get all CSV files
 data_list <- list()  # Create an empty list to store data frames

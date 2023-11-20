@@ -8,3 +8,4 @@ in_marine_parks/*
 !in_marine_parks/.gitkeep
 in_background_map/*
 cropped_raster.rds
+in_background_map/*
