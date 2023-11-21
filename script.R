@@ -22,9 +22,11 @@ voyage <- "IOT"
 #load background maps ----
 
 #basic map ----
-map <- ne_load(scale=10, category="physical", type='land', returnclass = 'sf') #if already downloaded
-#map <- ne_download(scale=10, category="physical", type='land', returnclass = 'sf', load=T) #if need to downloaded
-map <- ne_countries(country = "australia", returnclass ='sf')
+if (file.exists("in_background_map/ne_10m_land.shp")) {
+map <- ne_load(scale=10, category="physical", type='land', returnclass = 'sf', destdir="in_background_map/") #if already downloaded
+} else {
+map <- ne_download(scale=10, category="physical", type='land', returnclass = 'sf', load=T, destdir="in_background_map") #if need to downloaded
+}
 st_crs(map) #check crs
 
 #raster map ----
@@ -43,6 +45,7 @@ if (file.exists("cropped_raster.rds")) {
   # Save cropped raster as RDS file
   saveRDS(cropped_raster, "cropped_raster.rds")
 }
+ne_load
 
 #load sampling sites ----
 file_list <- list.files("in_sampling_sites", pattern = "\\.csv$", full.names = TRUE) # Get all CSV files
