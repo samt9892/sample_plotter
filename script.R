@@ -22,10 +22,10 @@ voyage <- "IOT"
 #load background maps ----
 
 #basic map ----
-if (file.exists("in_background_map/ne_10m_land.shp")) {
-map <- ne_load(scale=10, category="physical", type='land', returnclass = 'sf', destdir="in_background_map/") #if already downloaded
+if (file.exists("temp/ne_10m_land.shp")) {
+map <- ne_load(scale=10, category="physical", type='land', returnclass = 'sf', destdir="temp/") #if already downloaded
 } else {
-map <- ne_download(scale=10, category="physical", type='land', returnclass = 'sf', load=T, destdir="in_background_map") #if need to downloaded
+map <- ne_download(scale=10, category="physical", type='land', returnclass = 'sf', load=T, destdir="temp") #if need to downloaded
 }
 st_crs(map) #check crs
 
@@ -33,10 +33,10 @@ st_crs(map) #check crs
 raster_extent <- c(boundaries[["All"]]$ODR_Xlim[1], boundaries[["All"]]$ODR_Xlim[2],  #Define raster extent from the largest image 'all'
                       boundaries[["All"]]$ODR_Ylim[1], boundaries[["All"]]$ODR_Ylim[2])
 # Check if the RDS file exists
-if (file.exists("cropped_raster.rds")) {
-  cropped_raster <- readRDS("cropped_raster.rds")
+if (file.exists("temp/cropped_raster.rds")) {
+  cropped_raster <- readRDS("temp/cropped_raster.rds")
 } else {
-  raster_map <- raster("in_background_map/NE1_HR_LC_SR_W.tif") # Read the raster datafile
+  raster_map <- raster("in_raster/NE1_HR_LC_SR_W.tif") # Read the raster datafile
   cropped_raster <- crop(raster_map, raster_extent) %>% # Crop the raster to match the defined extent
     as.array() %>% # Convert to array
     `/`(255) %>% # Switch to proportions to meet rgb() requirements  
@@ -136,7 +136,7 @@ for (i in seq_along(boundaries)) {
     ) +
     guides(fill = guide_legend(override.aes = list(shape = shapes)))  # Override legend shapes
   
-    ggsave(filename = output_filename, width = 15, height = 14, units = "cm", dpi = 300)
+    ggsave(filename = paste("out_plots", output_filename, sep="/"), width = 15, height = 14, units = "cm", dpi = 300)
 }
 
 
